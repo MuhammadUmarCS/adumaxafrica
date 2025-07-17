@@ -1,0 +1,16 @@
+Express JS
+
+Express is a minimal and flexible Node.js web application framework fro Node js that simplifies building web applications and APIs in a more structured and organized way.
+
+
+Installation 
+
+1. Install NodeJS
+2. Install VS Code
+3. Install ExpressJS
+
+Create first project 
+run command  (npm init -y)
+
+
+
